@@ -1,0 +1,263 @@
+*.hilton.com
+62.216.152.46/29
+167.187.0.0/16
+82.196.42.196/28	CIDR	
+Critical
+	
+Eligible
+	
+Mar 21, 2023
+	
+0 (0%)
+203.79.37.2/29	CIDR	
+Critical
+	
+Eligible
+	
+Mar 21, 2023
+	
+0 (0%)
+192.251.126.0/24	CIDR	
+Critical
+	
+Eligible
+	
+Mar 21, 2023
+	
+0 (0%)
+192.251.125.0/24	CIDR	
+Critical
+	
+Eligible
+	
+Mar 21, 2023
+	
+0 (0%)
+192.251.124.0/24	CIDR	
+Critical
+	
+Eligible
+	
+Mar 21, 2023
+	
+0 (0%)
+192.251.123.0/24	CIDR	
+Critical
+	
+Eligible
+	
+Mar 21, 2023
+	
+0 (0%)
+121.200.237.36/29
+*.hiltonbusinessonline.com	Wildcard	
+Critical
+	
+Eligible
+	
+May 15, 2023
+	
+2 (0%)
+*.hilton.io
+
+*.ah.nl	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 28, 2025
+	
+21 (16%)
+https://www.hannaford.com
+All the subdomains unrelated to the e-commerce site are out of scope.
+	URL	
+Critical
+	
+Eligible
+	
+Feb 28, 2024
+	
+10 (8%)
+https://www.ah.nl
+All the subdomains not related to the e-commerce site are out of scope.
+	URL	
+Critical
+	
+Eligible
+	
+Feb 15, 2024
+	
+10 (8%)
+https://stopandshop.com
+All the subdomains unrelated to the e-commerce site are out of scope.
+	URL	
+Critical
+	
+Eligible
+	
+Feb 28, 2024
+	
+9 (7%)
+*.mega-image.ro	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 21, 2025
+	
+9 (7%)
+https://www.etos.nl
+All the subdomains which are not related to the e-commerce site are out of scope.
+	URL	
+Critical
+	
+Eligible
+	
+Feb 15, 2024
+	
+8 (6%)
+https://www.albert.cz
+All the subdomains unrelated to the e-commerce site are out of scope.
+	URL	
+Critical
+	
+Eligible
+	
+Feb 28, 2024
+	
+8 (6%)
+*.foodlion.*	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 21, 2025
+	
+7 (5%)
+*.profi.ro	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 22, 2025
+	
+6 (5%)
+*.aholddelhaize.com	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 28, 2025
+	
+6 (5%)
+https://www.gall.nl
+All the subdomains unrelated to the e-commerce site are out of scope.
+	URL	
+Critical
+	
+Eligible
+	
+Feb 15, 2024
+	
+5 (4%)
+https://www.delhaize.be
+All the subdomains unrelated to the e-commerce site are out of scope.
+	URL	
+Critical
+	
+Eligible
+	
+Feb 15, 2024
+	
+4 (3%)
+*.hannaford.com	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 21, 2025
+	
+4 (3%)
+https://ws1.aholdusa.com
+All the subdomains unrelated to the e-commerce site are out of scope.
+	URL	
+Critical
+	
+Eligible
+	
+Jul 5, 2024
+	
+3 (2%)
+*.maxi.rs	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 21, 2025
+	
+3 (2%)
+*.gall.nl	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 28, 2025
+	
+3 (2%)
+*.stopandshop.com	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 21, 2025
+	
+2 (2%)
+*.giantfood.com	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 21, 2025
+	
+2 (2%)
+*.aholddelhaize.*	Wildcard	
+Critical
+	
+Eligible
+	
+Sep 18, 2025
+	
+1 (1%)
+ws1.aholdusa.com	Domain	
+Critical
+	
+Eligible
+	
+Sep 18, 2025
+	
+0 (0%)
+https://ws1.aholdusa.com/jisim7/itim/console/main
+Please make sure there is no DOS attack on this application as this is one of our critical application
+	URL	
+Critical
+	
+Eligible
+	
+Dec 13, 2024
+	
+0 (0%)
+*.etos.nl	Wildcard	
+Critical
+	
+Eligible
+	
+Jan 28, 2025
+	
+0 (0%)
+*.delhaize.*	Wildcard	
+Critical
+	
+Eligible
+	
+Sep 18, 2025
+	
